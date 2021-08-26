@@ -11,7 +11,7 @@
 
      printf("Eli Wagner!\n");
 
-     printf("Computer Science\n");
+     printf("Computer Science1\n");
 
      return 0;
 
