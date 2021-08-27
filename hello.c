@@ -13,6 +13,10 @@
 
      printf("My major is Computer Science\n");
 
+     printf("Zachary Ridl\n");
+
+     printf("Electrical Engineering\n");
+
      return 0;
 
  }
